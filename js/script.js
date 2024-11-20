@@ -1018,7 +1018,6 @@ function mainSign() {
   signSection.style.display = "none";
   mainSection.style.display = "flex";
   sessionStorage.setItem("nowSection", ".main-section");
-  // footerPosition()
 }
 
 function return1() {
